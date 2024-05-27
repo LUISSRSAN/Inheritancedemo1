@@ -1,0 +1,14 @@
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/inheritancedemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/inheritancedemo.AssemblyInfoInputs.cache
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/inheritancedemo.AssemblyInfo.cs
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/inheritancedemo.csproj.CoreCompileInputs.cache
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/bin/Debug/net8.0/inheritancedemo
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/bin/Debug/net8.0/inheritancedemo.deps.json
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/bin/Debug/net8.0/inheritancedemo.runtimeconfig.json
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/bin/Debug/net8.0/inheritancedemo.dll
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/bin/Debug/net8.0/inheritancedemo.pdb
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/inheritancedemo.dll
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/refint/inheritancedemo.dll
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/inheritancedemo.pdb
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/inheritancedemo.genruntimeconfig.cache
+/Users/luissantiago/Desktop/csharpstuff/inheritancedemo/obj/Debug/net8.0/ref/inheritancedemo.dll
